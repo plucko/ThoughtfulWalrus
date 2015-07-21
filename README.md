@@ -1,6 +1,6 @@
-# Project Name - Distress App 
+# S.O.S. Distress App
 
-Thoughtful Walrus
+The Thoughtful Walrus Team's port to native iOS.
 
 
 ## Team
